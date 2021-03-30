@@ -1,4 +1,0 @@
-0:0:0:0:0:0:0:1 - - [28/Mar/2021:13:18:55 -0400] GET /backbase/transactions/list HTTP/1.1 200 1148 http-bio-8080-exec-1 1479
-0:0:0:0:0:0:0:1 - - [28/Mar/2021:13:20:54 -0400] GET /backbase/transactions/list/SEPA HTTP/1.1 200 1148 http-bio-8080-exec-3 648
-0:0:0:0:0:0:0:1 - - [28/Mar/2021:13:22:32 -0400] GET /backbase/transactions/totalAmount/SEPA HTTP/1.1 200 119 http-bio-8080-exec-5 687
-0:0:0:0:0:0:0:1 - - [28/Mar/2021:13:22:42 -0400] GET /backbase/transactions/totalAmount/SEPA HTTP/1.1 200 119 http-bio-8080-exec-7 502
